@@ -10,7 +10,7 @@
 ### 💻 Junior Full Stack Developer | 🌍 Addis Ababa, Ethiopia  
 ### 🚀 Backend-Focused Developer | 💚 Spring Boot | 🔒 Security Enthusiast | 📚 Book Lover  
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://firaoldugassa.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://firaol-dugassa.netlify.app/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lavender_f)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/firaol-dugassa-dev84a913369)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firaoldugassalikassa@gmail.com)
